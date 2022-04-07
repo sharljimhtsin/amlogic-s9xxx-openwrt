@@ -14,7 +14,7 @@ on:
       more_settings:
         description: "More parameter settings"
         required: false
-        default: ""
+        default: "-b s905d -k 5.17.1"
   #schedule:
     #- cron: '0 17 * * 0'
 
